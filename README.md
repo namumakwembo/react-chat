@@ -1,19 +1,29 @@
-# Medical Pager Chat App
+# Medical Pager Chat App 
+### Bilgisayar Aglari proje
 
-![Chat Application](https://i.ibb.co/hsvcw4V/image.png)
+ 
+## Intro
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+This is a Reach chat application
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
+Make sure you have the latest node.js installed on your computer 
 
-In this video, we will create a full Realtime Chat Application. We're going to use React on the front end, NodeJS on the back end and the entire chat is powered with https://gstrm.io/js-mastery.
-
-By the end of this video, you will be able to build any real-time chat application you can think of.
 
 Setup:
-- run ```npm i && npm start``` for both client and server side to start the development server
 
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://resource.jsmasterypro.com/newsletter
+- To Get started , Open the terminal in your workspace folder and run :
+
+```
+  - git clone https://github.com/namumakwembo/react-chat 
+  - cd react-chat 
+  - cp .env.example .env
+  - cd client 
+  - npm i && npm start
+  - cd..
+  - cd server
+  - npm i && npm start
+
+``` 
+
+
+Finally add the stream keys to the .env file 
