@@ -14,6 +14,7 @@ Setup:
 - To Get started , Open the terminal in your workspace folder and run :
 
 ```
+  - cd desktop
   - git clone https://github.com/namumakwembo/react-chat 
   - cd react-chat 
   - cp .env.example .env
@@ -27,3 +28,4 @@ Setup:
 
 
 Finally add the stream keys to the .env file 
+Also  goto ``` /client/src/App.jsx ```  and update the ```  const apiKey = ''; ```
